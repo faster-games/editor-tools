@@ -1,12 +1,8 @@
 {
-    "name": "FasterGames.PackageTemplate.Editor",
-    "rootNamespace": "",
-    "references": [
-        "GUID:44f6acd6b6dd30b429acb5b3c20d2420"
-    ],
-    "includePlatforms": [
-        "Editor"
-    ],
+    "name": "FasterGames.EditorTools",
+    "rootNamespace": "FasterGames.EditorTools",
+    "references": [],
+    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
