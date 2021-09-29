@@ -45,9 +45,9 @@
     "cleanupCacheHistory": false,
     "disableGitFeatures": false,
     "globalMetadata": {
-      "_appTitle": "PackageTemplate",
+      "_appTitle": "EditorTools",
       "_appFooter": "Copyright FasterGames ©",
-      "_description": "This is a template for use when creating other packages.",
+      "_description": "Tools for improving the Unity Editor experience.",
       "_appLogoPath": "logo.svg",
       "_appFaviconPath": "favicon.ico",
       "_enableSearch": false
