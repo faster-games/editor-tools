@@ -1,3 +1,10 @@
+## [1.1.1](https://github.com/faster-games/editor-tools/compare/v1.1.0...v1.1.1) (2021-09-29)
+
+
+### Bug Fixes
+
+* **samples:** Remove unused sample ([#1](https://github.com/faster-games/editor-tools/issues/1)) ([66de125](https://github.com/faster-games/editor-tools/commit/66de125085ef5fed352b5bc3e906c6e3863ef5e5))
+
 # [1.1.0](https://github.com/faster-games/editor-tools/compare/v1.0.1...v1.1.0) (2021-09-29)
 
 
