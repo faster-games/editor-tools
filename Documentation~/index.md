@@ -26,7 +26,7 @@ Or by adding directly to your `manifest.json`:
 ```
 dependencies: {
 	...
-	"com.faster-games.ui-components": "git+https://github.com/faster-games/editor-tools.git"
+	"com.faster-games.editor-tools": "git+https://github.com/faster-games/editor-tools.git"
 }
 ```
 
