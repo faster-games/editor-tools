@@ -1,11 +1,11 @@
 {
-    "name": "FasterGames.PackageTemplate.Editor.Tests",
-    "rootNamespace": "",
+    "name": "FasterGames.EditorTools.Editor.Tests",
+    "rootNamespace": "FasterGames.EditorTools.Editor.Tests",
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "FasterGames.PackageTemplate",
-        "FasterGames.PackageTemplate.Editor"
+        "FasterGames.EditorTools",
+        "FasterGames.EditorTools.Editor"
     ],
     "includePlatforms": [
         "Editor"
