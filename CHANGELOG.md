@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/faster-games/editor-tools/compare/v1.1.1...v1.2.0) (2021-09-29)
+
+
+### Features
+
+* **docs:** Update docs with install instructions ([#2](https://github.com/faster-games/editor-tools/issues/2)) ([ab21a05](https://github.com/faster-games/editor-tools/commit/ab21a05595c1357de1e27ac7a752977d0fb775a7))
+
 ## [1.1.1](https://github.com/faster-games/editor-tools/compare/v1.1.0...v1.1.1) (2021-09-29)
 
 
