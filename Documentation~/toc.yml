@@ -4,4 +4,4 @@
   href: manual/
   homepage: manual/getting-started.md
 - name: Scripting API
-  href: xref:FasterGames.PackageTemplate
+  href: xref:FasterGames.EditorTools
