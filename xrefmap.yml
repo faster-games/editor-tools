@@ -1,27 +1,541 @@
 ### YamlMime:XRefMap
 sorted: true
 references:
-- uid: FasterGames.PackageTemplate
-  name: FasterGames.PackageTemplate
-  href: ref/FasterGames.PackageTemplate.html
-  commentId: N:FasterGames.PackageTemplate
-  fullName: FasterGames.PackageTemplate
-  nameWithType: FasterGames.PackageTemplate
-- uid: FasterGames.PackageTemplate.Editor
-  name: FasterGames.PackageTemplate.Editor
-  href: ref/FasterGames.PackageTemplate.Editor.html
-  commentId: N:FasterGames.PackageTemplate.Editor
-  fullName: FasterGames.PackageTemplate.Editor
-  nameWithType: FasterGames.PackageTemplate.Editor
-- uid: FasterGames.PackageTemplate.Editor.EditorExample
-  name: EditorExample
-  href: ref/FasterGames.PackageTemplate.Editor.EditorExample.html
-  commentId: T:FasterGames.PackageTemplate.Editor.EditorExample
-  fullName: FasterGames.PackageTemplate.Editor.EditorExample
-  nameWithType: EditorExample
-- uid: FasterGames.PackageTemplate.RuntimeExample
-  name: RuntimeExample
-  href: ref/FasterGames.PackageTemplate.RuntimeExample.html
-  commentId: T:FasterGames.PackageTemplate.RuntimeExample
-  fullName: FasterGames.PackageTemplate.RuntimeExample
-  nameWithType: RuntimeExample
+- uid: FasterGames.EditorTools
+  name: FasterGames.EditorTools
+  href: ref/FasterGames.EditorTools.html
+  commentId: N:FasterGames.EditorTools
+  fullName: FasterGames.EditorTools
+  nameWithType: FasterGames.EditorTools
+- uid: FasterGames.EditorTools.Editor
+  name: FasterGames.EditorTools.Editor
+  href: ref/FasterGames.EditorTools.Editor.html
+  commentId: N:FasterGames.EditorTools.Editor
+  fullName: FasterGames.EditorTools.Editor
+  nameWithType: FasterGames.EditorTools.Editor
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers
+  name: FasterGames.EditorTools.Editor.CustomPropertyDrawers
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.html
+  commentId: N:FasterGames.EditorTools.Editor.CustomPropertyDrawers
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers
+  nameWithType: FasterGames.EditorTools.Editor.CustomPropertyDrawers
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer
+  name: EmbedObjectPropertyDrawer
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.html
+  commentId: T:FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer
+  nameWithType: EmbedObjectPropertyDrawer
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  name: GetPropertyHeight(SerializedProperty, GUIContent)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_EmbedObjectPropertyDrawer_GetPropertyHeight_SerializedProperty_GUIContent_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+  nameWithType: EmbedObjectPropertyDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.GetPropertyHeight*
+  name: GetPropertyHeight
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_EmbedObjectPropertyDrawer_GetPropertyHeight_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.GetPropertyHeight
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.GetPropertyHeight
+  nameWithType: EmbedObjectPropertyDrawer.GetPropertyHeight
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.IsThereAnyVisibileProperty(SerializedProperty)
+  name: IsThereAnyVisibileProperty(SerializedProperty)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_EmbedObjectPropertyDrawer_IsThereAnyVisibileProperty_SerializedProperty_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.IsThereAnyVisibileProperty(SerializedProperty)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.IsThereAnyVisibileProperty(SerializedProperty)
+  nameWithType: EmbedObjectPropertyDrawer.IsThereAnyVisibileProperty(SerializedProperty)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.IsThereAnyVisibileProperty*
+  name: IsThereAnyVisibileProperty
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_EmbedObjectPropertyDrawer_IsThereAnyVisibileProperty_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.IsThereAnyVisibileProperty
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.IsThereAnyVisibileProperty
+  nameWithType: EmbedObjectPropertyDrawer.IsThereAnyVisibileProperty
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  name: OnGUI(Rect, SerializedProperty, GUIContent)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_EmbedObjectPropertyDrawer_OnGUI_Rect_SerializedProperty_GUIContent_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+  nameWithType: EmbedObjectPropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.OnGUI*
+  name: OnGUI
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_EmbedObjectPropertyDrawer_OnGUI_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.OnGUI
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.EmbedObjectPropertyDrawer.OnGUI
+  nameWithType: EmbedObjectPropertyDrawer.OnGUI
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer
+  name: GenericTypeRefPropertyDrawer
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.html
+  commentId: T:FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer
+  nameWithType: GenericTypeRefPropertyDrawer
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.CurrentIndex
+  name: CurrentIndex
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_GenericTypeRefPropertyDrawer_CurrentIndex
+  commentId: P:FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.CurrentIndex
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.CurrentIndex
+  nameWithType: GenericTypeRefPropertyDrawer.CurrentIndex
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.CurrentIndex*
+  name: CurrentIndex
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_GenericTypeRefPropertyDrawer_CurrentIndex_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.CurrentIndex
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.CurrentIndex
+  nameWithType: GenericTypeRefPropertyDrawer.CurrentIndex
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.OnSelect(SerializedProperty,System.String[],System.Int32,System.Int32)
+  name: OnSelect(SerializedProperty, String[], Int32, Int32)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_GenericTypeRefPropertyDrawer_OnSelect_SerializedProperty_System_String___System_Int32_System_Int32_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.OnSelect(SerializedProperty,System.String[],System.Int32,System.Int32)
+  name.vb: OnSelect(SerializedProperty, String(), Int32, Int32)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.OnSelect(SerializedProperty, System.String[], System.Int32, System.Int32)
+  fullName.vb: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.OnSelect(SerializedProperty, System.String(), System.Int32, System.Int32)
+  nameWithType: GenericTypeRefPropertyDrawer.OnSelect(SerializedProperty, String[], Int32, Int32)
+  nameWithType.vb: GenericTypeRefPropertyDrawer.OnSelect(SerializedProperty, String(), Int32, Int32)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.OnSelect*
+  name: OnSelect
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_GenericTypeRefPropertyDrawer_OnSelect_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.OnSelect
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.OnSelect
+  nameWithType: GenericTypeRefPropertyDrawer.OnSelect
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.PopupText
+  name: PopupText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_GenericTypeRefPropertyDrawer_PopupText
+  commentId: P:FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.PopupText
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.PopupText
+  nameWithType: GenericTypeRefPropertyDrawer.PopupText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.PopupText*
+  name: PopupText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_GenericTypeRefPropertyDrawer_PopupText_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.PopupText
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.PopupText
+  nameWithType: GenericTypeRefPropertyDrawer.PopupText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshButtonText
+  name: RefreshButtonText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_GenericTypeRefPropertyDrawer_RefreshButtonText
+  commentId: P:FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshButtonText
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshButtonText
+  nameWithType: GenericTypeRefPropertyDrawer.RefreshButtonText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshButtonText*
+  name: RefreshButtonText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_GenericTypeRefPropertyDrawer_RefreshButtonText_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshButtonText
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshButtonText
+  nameWithType: GenericTypeRefPropertyDrawer.RefreshButtonText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshContent(SerializedProperty)
+  name: RefreshContent(SerializedProperty)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_GenericTypeRefPropertyDrawer_RefreshContent_SerializedProperty_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshContent(SerializedProperty)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshContent(SerializedProperty)
+  nameWithType: GenericTypeRefPropertyDrawer.RefreshContent(SerializedProperty)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshContent*
+  name: RefreshContent
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_GenericTypeRefPropertyDrawer_RefreshContent_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshContent
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.GenericTypeRefPropertyDrawer.RefreshContent
+  nameWithType: GenericTypeRefPropertyDrawer.RefreshContent
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer
+  name: ReadOnlyPropertyDrawer
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.html
+  commentId: T:FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer
+  nameWithType: ReadOnlyPropertyDrawer
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  name: GetPropertyHeight(SerializedProperty, GUIContent)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_ReadOnlyPropertyDrawer_GetPropertyHeight_SerializedProperty_GUIContent_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+  nameWithType: ReadOnlyPropertyDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.GetPropertyHeight*
+  name: GetPropertyHeight
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_ReadOnlyPropertyDrawer_GetPropertyHeight_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.GetPropertyHeight
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.GetPropertyHeight
+  nameWithType: ReadOnlyPropertyDrawer.GetPropertyHeight
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  name: OnGUI(Rect, SerializedProperty, GUIContent)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_ReadOnlyPropertyDrawer_OnGUI_Rect_SerializedProperty_GUIContent_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+  nameWithType: ReadOnlyPropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.OnGUI*
+  name: OnGUI
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_ReadOnlyPropertyDrawer_OnGUI_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.OnGUI
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.ReadOnlyPropertyDrawer.OnGUI
+  nameWithType: ReadOnlyPropertyDrawer.OnGUI
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer
+  name: TextPopupPropertyDrawer
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html
+  commentId: T:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer
+  nameWithType: TextPopupPropertyDrawer
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.CurrentIndex
+  name: CurrentIndex
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_CurrentIndex
+  commentId: P:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.CurrentIndex
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.CurrentIndex
+  nameWithType: TextPopupPropertyDrawer.CurrentIndex
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.CurrentIndex*
+  name: CurrentIndex
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_CurrentIndex_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.CurrentIndex
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.CurrentIndex
+  nameWithType: TextPopupPropertyDrawer.CurrentIndex
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.NoItemIndex
+  name: NoItemIndex
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_NoItemIndex
+  commentId: F:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.NoItemIndex
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.NoItemIndex
+  nameWithType: TextPopupPropertyDrawer.NoItemIndex
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  name: OnGUI(Rect, SerializedProperty, GUIContent)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_OnGUI_Rect_SerializedProperty_GUIContent_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+  nameWithType: TextPopupPropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnGUI*
+  name: OnGUI
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_OnGUI_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnGUI
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnGUI
+  nameWithType: TextPopupPropertyDrawer.OnGUI
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnSelect(SerializedProperty,System.String[],System.Int32,System.Int32)
+  name: OnSelect(SerializedProperty, String[], Int32, Int32)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_OnSelect_SerializedProperty_System_String___System_Int32_System_Int32_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnSelect(SerializedProperty,System.String[],System.Int32,System.Int32)
+  name.vb: OnSelect(SerializedProperty, String(), Int32, Int32)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnSelect(SerializedProperty, System.String[], System.Int32, System.Int32)
+  fullName.vb: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnSelect(SerializedProperty, System.String(), System.Int32, System.Int32)
+  nameWithType: TextPopupPropertyDrawer.OnSelect(SerializedProperty, String[], Int32, Int32)
+  nameWithType.vb: TextPopupPropertyDrawer.OnSelect(SerializedProperty, String(), Int32, Int32)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnSelect*
+  name: OnSelect
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_OnSelect_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnSelect
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.OnSelect
+  nameWithType: TextPopupPropertyDrawer.OnSelect
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.PopupText
+  name: PopupText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_PopupText
+  commentId: P:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.PopupText
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.PopupText
+  nameWithType: TextPopupPropertyDrawer.PopupText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.PopupText*
+  name: PopupText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_PopupText_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.PopupText
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.PopupText
+  nameWithType: TextPopupPropertyDrawer.PopupText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshButtonText
+  name: RefreshButtonText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_RefreshButtonText
+  commentId: P:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshButtonText
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshButtonText
+  nameWithType: TextPopupPropertyDrawer.RefreshButtonText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshButtonText*
+  name: RefreshButtonText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_RefreshButtonText_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshButtonText
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshButtonText
+  nameWithType: TextPopupPropertyDrawer.RefreshButtonText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshContent(SerializedProperty)
+  name: RefreshContent(SerializedProperty)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_RefreshContent_SerializedProperty_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshContent(SerializedProperty)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshContent(SerializedProperty)
+  nameWithType: TextPopupPropertyDrawer.RefreshContent(SerializedProperty)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshContent*
+  name: RefreshContent
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TextPopupPropertyDrawer_RefreshContent_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshContent
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TextPopupPropertyDrawer.RefreshContent
+  nameWithType: TextPopupPropertyDrawer.RefreshContent
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer
+  name: TypeRefPropertyDrawer
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.html
+  commentId: T:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer
+  nameWithType: TypeRefPropertyDrawer
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.CurrentIndex
+  name: CurrentIndex
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TypeRefPropertyDrawer_CurrentIndex
+  commentId: P:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.CurrentIndex
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.CurrentIndex
+  nameWithType: TypeRefPropertyDrawer.CurrentIndex
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.CurrentIndex*
+  name: CurrentIndex
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TypeRefPropertyDrawer_CurrentIndex_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.CurrentIndex
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.CurrentIndex
+  nameWithType: TypeRefPropertyDrawer.CurrentIndex
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.OnSelect(SerializedProperty,System.String[],System.Int32,System.Int32)
+  name: OnSelect(SerializedProperty, String[], Int32, Int32)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TypeRefPropertyDrawer_OnSelect_SerializedProperty_System_String___System_Int32_System_Int32_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.OnSelect(SerializedProperty,System.String[],System.Int32,System.Int32)
+  name.vb: OnSelect(SerializedProperty, String(), Int32, Int32)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.OnSelect(SerializedProperty, System.String[], System.Int32, System.Int32)
+  fullName.vb: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.OnSelect(SerializedProperty, System.String(), System.Int32, System.Int32)
+  nameWithType: TypeRefPropertyDrawer.OnSelect(SerializedProperty, String[], Int32, Int32)
+  nameWithType.vb: TypeRefPropertyDrawer.OnSelect(SerializedProperty, String(), Int32, Int32)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.OnSelect*
+  name: OnSelect
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TypeRefPropertyDrawer_OnSelect_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.OnSelect
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.OnSelect
+  nameWithType: TypeRefPropertyDrawer.OnSelect
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.PopupText
+  name: PopupText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TypeRefPropertyDrawer_PopupText
+  commentId: P:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.PopupText
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.PopupText
+  nameWithType: TypeRefPropertyDrawer.PopupText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.PopupText*
+  name: PopupText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TypeRefPropertyDrawer_PopupText_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.PopupText
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.PopupText
+  nameWithType: TypeRefPropertyDrawer.PopupText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshButtonText
+  name: RefreshButtonText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TypeRefPropertyDrawer_RefreshButtonText
+  commentId: P:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshButtonText
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshButtonText
+  nameWithType: TypeRefPropertyDrawer.RefreshButtonText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshButtonText*
+  name: RefreshButtonText
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TypeRefPropertyDrawer_RefreshButtonText_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshButtonText
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshButtonText
+  nameWithType: TypeRefPropertyDrawer.RefreshButtonText
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshContent(SerializedProperty)
+  name: RefreshContent(SerializedProperty)
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TypeRefPropertyDrawer_RefreshContent_SerializedProperty_
+  commentId: M:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshContent(SerializedProperty)
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshContent(SerializedProperty)
+  nameWithType: TypeRefPropertyDrawer.RefreshContent(SerializedProperty)
+- uid: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshContent*
+  name: RefreshContent
+  href: ref/FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.html#FasterGames_EditorTools_Editor_CustomPropertyDrawers_TypeRefPropertyDrawer_RefreshContent_
+  commentId: Overload:FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshContent
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.CustomPropertyDrawers.TypeRefPropertyDrawer.RefreshContent
+  nameWithType: TypeRefPropertyDrawer.RefreshContent
+- uid: FasterGames.EditorTools.Editor.SearchablePopup
+  name: SearchablePopup
+  href: ref/FasterGames.EditorTools.Editor.SearchablePopup.html
+  commentId: T:FasterGames.EditorTools.Editor.SearchablePopup
+  fullName: FasterGames.EditorTools.Editor.SearchablePopup
+  nameWithType: SearchablePopup
+- uid: FasterGames.EditorTools.Editor.SearchablePopup.GetWindowSize
+  name: GetWindowSize()
+  href: ref/FasterGames.EditorTools.Editor.SearchablePopup.html#FasterGames_EditorTools_Editor_SearchablePopup_GetWindowSize
+  commentId: M:FasterGames.EditorTools.Editor.SearchablePopup.GetWindowSize
+  fullName: FasterGames.EditorTools.Editor.SearchablePopup.GetWindowSize()
+  nameWithType: SearchablePopup.GetWindowSize()
+- uid: FasterGames.EditorTools.Editor.SearchablePopup.GetWindowSize*
+  name: GetWindowSize
+  href: ref/FasterGames.EditorTools.Editor.SearchablePopup.html#FasterGames_EditorTools_Editor_SearchablePopup_GetWindowSize_
+  commentId: Overload:FasterGames.EditorTools.Editor.SearchablePopup.GetWindowSize
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.SearchablePopup.GetWindowSize
+  nameWithType: SearchablePopup.GetWindowSize
+- uid: FasterGames.EditorTools.Editor.SearchablePopup.OnClose
+  name: OnClose()
+  href: ref/FasterGames.EditorTools.Editor.SearchablePopup.html#FasterGames_EditorTools_Editor_SearchablePopup_OnClose
+  commentId: M:FasterGames.EditorTools.Editor.SearchablePopup.OnClose
+  fullName: FasterGames.EditorTools.Editor.SearchablePopup.OnClose()
+  nameWithType: SearchablePopup.OnClose()
+- uid: FasterGames.EditorTools.Editor.SearchablePopup.OnClose*
+  name: OnClose
+  href: ref/FasterGames.EditorTools.Editor.SearchablePopup.html#FasterGames_EditorTools_Editor_SearchablePopup_OnClose_
+  commentId: Overload:FasterGames.EditorTools.Editor.SearchablePopup.OnClose
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.SearchablePopup.OnClose
+  nameWithType: SearchablePopup.OnClose
+- uid: FasterGames.EditorTools.Editor.SearchablePopup.OnGUI(Rect)
+  name: OnGUI(Rect)
+  href: ref/FasterGames.EditorTools.Editor.SearchablePopup.html#FasterGames_EditorTools_Editor_SearchablePopup_OnGUI_Rect_
+  commentId: M:FasterGames.EditorTools.Editor.SearchablePopup.OnGUI(Rect)
+  fullName: FasterGames.EditorTools.Editor.SearchablePopup.OnGUI(Rect)
+  nameWithType: SearchablePopup.OnGUI(Rect)
+- uid: FasterGames.EditorTools.Editor.SearchablePopup.OnGUI*
+  name: OnGUI
+  href: ref/FasterGames.EditorTools.Editor.SearchablePopup.html#FasterGames_EditorTools_Editor_SearchablePopup_OnGUI_
+  commentId: Overload:FasterGames.EditorTools.Editor.SearchablePopup.OnGUI
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.SearchablePopup.OnGUI
+  nameWithType: SearchablePopup.OnGUI
+- uid: FasterGames.EditorTools.Editor.SearchablePopup.OnOpen
+  name: OnOpen()
+  href: ref/FasterGames.EditorTools.Editor.SearchablePopup.html#FasterGames_EditorTools_Editor_SearchablePopup_OnOpen
+  commentId: M:FasterGames.EditorTools.Editor.SearchablePopup.OnOpen
+  fullName: FasterGames.EditorTools.Editor.SearchablePopup.OnOpen()
+  nameWithType: SearchablePopup.OnOpen()
+- uid: FasterGames.EditorTools.Editor.SearchablePopup.OnOpen*
+  name: OnOpen
+  href: ref/FasterGames.EditorTools.Editor.SearchablePopup.html#FasterGames_EditorTools_Editor_SearchablePopup_OnOpen_
+  commentId: Overload:FasterGames.EditorTools.Editor.SearchablePopup.OnOpen
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.SearchablePopup.OnOpen
+  nameWithType: SearchablePopup.OnOpen
+- uid: FasterGames.EditorTools.Editor.SearchablePopup.Show(Rect,System.String[],System.Int32,System.Action{System.Int32})
+  name: Show(Rect, String[], Int32, Action<Int32>)
+  href: ref/FasterGames.EditorTools.Editor.SearchablePopup.html#FasterGames_EditorTools_Editor_SearchablePopup_Show_Rect_System_String___System_Int32_System_Action_System_Int32__
+  commentId: M:FasterGames.EditorTools.Editor.SearchablePopup.Show(Rect,System.String[],System.Int32,System.Action{System.Int32})
+  name.vb: Show(Rect, String(), Int32, Action(Of Int32))
+  fullName: FasterGames.EditorTools.Editor.SearchablePopup.Show(Rect, System.String[], System.Int32, System.Action<System.Int32>)
+  fullName.vb: FasterGames.EditorTools.Editor.SearchablePopup.Show(Rect, System.String(), System.Int32, System.Action(Of System.Int32))
+  nameWithType: SearchablePopup.Show(Rect, String[], Int32, Action<Int32>)
+  nameWithType.vb: SearchablePopup.Show(Rect, String(), Int32, Action(Of Int32))
+- uid: FasterGames.EditorTools.Editor.SearchablePopup.Show*
+  name: Show
+  href: ref/FasterGames.EditorTools.Editor.SearchablePopup.html#FasterGames_EditorTools_Editor_SearchablePopup_Show_
+  commentId: Overload:FasterGames.EditorTools.Editor.SearchablePopup.Show
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.SearchablePopup.Show
+  nameWithType: SearchablePopup.Show
+- uid: FasterGames.EditorTools.Editor.SerializedObjectUtils
+  name: SerializedObjectUtils
+  href: ref/FasterGames.EditorTools.Editor.SerializedObjectUtils.html
+  commentId: T:FasterGames.EditorTools.Editor.SerializedObjectUtils
+  fullName: FasterGames.EditorTools.Editor.SerializedObjectUtils
+  nameWithType: SerializedObjectUtils
+- uid: FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType(SerializedObject,System.String)
+  name: FindPropertyType(SerializedObject, String)
+  href: ref/FasterGames.EditorTools.Editor.SerializedObjectUtils.html#FasterGames_EditorTools_Editor_SerializedObjectUtils_FindPropertyType_SerializedObject_System_String_
+  commentId: M:FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType(SerializedObject,System.String)
+  fullName: FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType(SerializedObject, System.String)
+  nameWithType: SerializedObjectUtils.FindPropertyType(SerializedObject, String)
+- uid: FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType(SerializedProperty)
+  name: FindPropertyType(SerializedProperty)
+  href: ref/FasterGames.EditorTools.Editor.SerializedObjectUtils.html#FasterGames_EditorTools_Editor_SerializedObjectUtils_FindPropertyType_SerializedProperty_
+  commentId: M:FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType(SerializedProperty)
+  fullName: FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType(SerializedProperty)
+  nameWithType: SerializedObjectUtils.FindPropertyType(SerializedProperty)
+- uid: FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType(UnityEngine.Object,System.String)
+  name: FindPropertyType(UnityEngine.Object, String)
+  href: ref/FasterGames.EditorTools.Editor.SerializedObjectUtils.html#FasterGames_EditorTools_Editor_SerializedObjectUtils_FindPropertyType_UnityEngine_Object_System_String_
+  commentId: M:FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType(UnityEngine.Object,System.String)
+  fullName: FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType(UnityEngine.Object, System.String)
+  nameWithType: SerializedObjectUtils.FindPropertyType(UnityEngine.Object, String)
+- uid: FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType*
+  name: FindPropertyType
+  href: ref/FasterGames.EditorTools.Editor.SerializedObjectUtils.html#FasterGames_EditorTools_Editor_SerializedObjectUtils_FindPropertyType_
+  commentId: Overload:FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.Editor.SerializedObjectUtils.FindPropertyType
+  nameWithType: SerializedObjectUtils.FindPropertyType
+- uid: FasterGames.EditorTools.PropertyAttributes
+  name: FasterGames.EditorTools.PropertyAttributes
+  href: ref/FasterGames.EditorTools.PropertyAttributes.html
+  commentId: N:FasterGames.EditorTools.PropertyAttributes
+  fullName: FasterGames.EditorTools.PropertyAttributes
+  nameWithType: FasterGames.EditorTools.PropertyAttributes
+- uid: FasterGames.EditorTools.PropertyAttributes.EmbedObjectAttribute
+  name: EmbedObjectAttribute
+  href: ref/FasterGames.EditorTools.PropertyAttributes.EmbedObjectAttribute.html
+  commentId: T:FasterGames.EditorTools.PropertyAttributes.EmbedObjectAttribute
+  fullName: FasterGames.EditorTools.PropertyAttributes.EmbedObjectAttribute
+  nameWithType: EmbedObjectAttribute
+- uid: FasterGames.EditorTools.PropertyAttributes.ReadOnlyAttribute
+  name: ReadOnlyAttribute
+  href: ref/FasterGames.EditorTools.PropertyAttributes.ReadOnlyAttribute.html
+  commentId: T:FasterGames.EditorTools.PropertyAttributes.ReadOnlyAttribute
+  fullName: FasterGames.EditorTools.PropertyAttributes.ReadOnlyAttribute
+  nameWithType: ReadOnlyAttribute
+- uid: FasterGames.EditorTools.TypeRef
+  name: TypeRef
+  href: ref/FasterGames.EditorTools.TypeRef.html
+  commentId: T:FasterGames.EditorTools.TypeRef
+  fullName: FasterGames.EditorTools.TypeRef
+  nameWithType: TypeRef
+- uid: FasterGames.EditorTools.TypeRef.FieldNames
+  name: TypeRef.FieldNames
+  href: ref/FasterGames.EditorTools.TypeRef.FieldNames.html
+  commentId: T:FasterGames.EditorTools.TypeRef.FieldNames
+  fullName: FasterGames.EditorTools.TypeRef.FieldNames
+  nameWithType: TypeRef.FieldNames
+- uid: FasterGames.EditorTools.TypeRef.FieldNames.TypeAssemblyQualifiedName
+  name: TypeAssemblyQualifiedName
+  href: ref/FasterGames.EditorTools.TypeRef.FieldNames.html#FasterGames_EditorTools_TypeRef_FieldNames_TypeAssemblyQualifiedName
+  commentId: F:FasterGames.EditorTools.TypeRef.FieldNames.TypeAssemblyQualifiedName
+  fullName: FasterGames.EditorTools.TypeRef.FieldNames.TypeAssemblyQualifiedName
+  nameWithType: TypeRef.FieldNames.TypeAssemblyQualifiedName
+- uid: FasterGames.EditorTools.TypeRef.Type
+  name: Type
+  href: ref/FasterGames.EditorTools.TypeRef.html#FasterGames_EditorTools_TypeRef_Type
+  commentId: P:FasterGames.EditorTools.TypeRef.Type
+  fullName: FasterGames.EditorTools.TypeRef.Type
+  nameWithType: TypeRef.Type
+- uid: FasterGames.EditorTools.TypeRef.Type*
+  name: Type
+  href: ref/FasterGames.EditorTools.TypeRef.html#FasterGames_EditorTools_TypeRef_Type_
+  commentId: Overload:FasterGames.EditorTools.TypeRef.Type
+  isSpec: "True"
+  fullName: FasterGames.EditorTools.TypeRef.Type
+  nameWithType: TypeRef.Type
+- uid: FasterGames.EditorTools.TypeRef.typeAssemblyQualifiedName
+  name: typeAssemblyQualifiedName
+  href: ref/FasterGames.EditorTools.TypeRef.html#FasterGames_EditorTools_TypeRef_typeAssemblyQualifiedName
+  commentId: F:FasterGames.EditorTools.TypeRef.typeAssemblyQualifiedName
+  fullName: FasterGames.EditorTools.TypeRef.typeAssemblyQualifiedName
+  nameWithType: TypeRef.typeAssemblyQualifiedName
+- uid: FasterGames.EditorTools.TypeRef`1
+  name: TypeRef<TBaseType>
+  href: ref/FasterGames.EditorTools.TypeRef-1.html
+  commentId: T:FasterGames.EditorTools.TypeRef`1
+  name.vb: TypeRef(Of TBaseType)
+  fullName: FasterGames.EditorTools.TypeRef<TBaseType>
+  fullName.vb: FasterGames.EditorTools.TypeRef(Of TBaseType)
+  nameWithType: TypeRef<TBaseType>
+  nameWithType.vb: TypeRef(Of TBaseType)
+- uid: FasterGames.EditorTools.TypeRef`1.baseTypeAssemblyQualifiedName
+  name: baseTypeAssemblyQualifiedName
+  href: ref/FasterGames.EditorTools.TypeRef-1.html#FasterGames_EditorTools_TypeRef_1_baseTypeAssemblyQualifiedName
+  commentId: F:FasterGames.EditorTools.TypeRef`1.baseTypeAssemblyQualifiedName
+  fullName: FasterGames.EditorTools.TypeRef<TBaseType>.baseTypeAssemblyQualifiedName
+  fullName.vb: FasterGames.EditorTools.TypeRef(Of TBaseType).baseTypeAssemblyQualifiedName
+  nameWithType: TypeRef<TBaseType>.baseTypeAssemblyQualifiedName
+  nameWithType.vb: TypeRef(Of TBaseType).baseTypeAssemblyQualifiedName
+- uid: FasterGames.EditorTools.TypeRef`1.FieldNames
+  name: TypeRef<TBaseType>.FieldNames
+  href: ref/FasterGames.EditorTools.TypeRef-1.FieldNames.html
+  commentId: T:FasterGames.EditorTools.TypeRef`1.FieldNames
+  name.vb: TypeRef(Of TBaseType).FieldNames
+  fullName: FasterGames.EditorTools.TypeRef<TBaseType>.FieldNames
+  fullName.vb: FasterGames.EditorTools.TypeRef(Of TBaseType).FieldNames
+  nameWithType: TypeRef<TBaseType>.FieldNames
+  nameWithType.vb: TypeRef(Of TBaseType).FieldNames
+- uid: FasterGames.EditorTools.TypeRef`1.FieldNames.BaseTypeAssemblyQualifiedName
+  name: BaseTypeAssemblyQualifiedName
+  href: ref/FasterGames.EditorTools.TypeRef-1.FieldNames.html#FasterGames_EditorTools_TypeRef_1_FieldNames_BaseTypeAssemblyQualifiedName
+  commentId: F:FasterGames.EditorTools.TypeRef`1.FieldNames.BaseTypeAssemblyQualifiedName
+  fullName: FasterGames.EditorTools.TypeRef<TBaseType>.FieldNames.BaseTypeAssemblyQualifiedName
+  fullName.vb: FasterGames.EditorTools.TypeRef(Of TBaseType).FieldNames.BaseTypeAssemblyQualifiedName
+  nameWithType: TypeRef<TBaseType>.FieldNames.BaseTypeAssemblyQualifiedName
+  nameWithType.vb: TypeRef(Of TBaseType).FieldNames.BaseTypeAssemblyQualifiedName
+- uid: FasterGames.EditorTools.TypeRef`1.FieldNames.TypeAssemblyQualifiedName
+  name: TypeAssemblyQualifiedName
+  href: ref/FasterGames.EditorTools.TypeRef-1.FieldNames.html#FasterGames_EditorTools_TypeRef_1_FieldNames_TypeAssemblyQualifiedName
+  commentId: F:FasterGames.EditorTools.TypeRef`1.FieldNames.TypeAssemblyQualifiedName
+  fullName: FasterGames.EditorTools.TypeRef<TBaseType>.FieldNames.TypeAssemblyQualifiedName
+  fullName.vb: FasterGames.EditorTools.TypeRef(Of TBaseType).FieldNames.TypeAssemblyQualifiedName
+  nameWithType: TypeRef<TBaseType>.FieldNames.TypeAssemblyQualifiedName
+  nameWithType.vb: TypeRef(Of TBaseType).FieldNames.TypeAssemblyQualifiedName
