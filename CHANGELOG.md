@@ -1,3 +1,15 @@
+# [1.1.0](https://github.com/faster-games/editor-tools/compare/v1.0.1...v1.1.0) (2021-09-29)
+
+
+### Bug Fixes
+
+* **docs:** Cleanup and write docs ([5e9573c](https://github.com/faster-games/editor-tools/commit/5e9573cdf7de0ac225f2c47ae85cb00d6d482647))
+
+
+### Features
+
+* **init:** Lib contents ([7dd5802](https://github.com/faster-games/editor-tools/commit/7dd58026958fe6334a2b9c1303e86e4c93fce672))
+
 ## [1.0.1](https://github.com/faster-games/editor-tools/compare/v1.0.0...v1.0.1) (2021-09-27)
 
 
